@@ -37,7 +37,6 @@ tags: [MPSI, Analyse, Séries]
 - Utiliser un DL pour décider de la convergence de \(\sum \left(\sqrt{n+1}-\sqrt{n}\right)\) → voir [[Exercice - Séries numériques - DL et convergence]].
 - Déterminer un équivalent du reste \(R_n = \sum_{k=n+1}^{+\infty} u_k\) → voir [[Exercice - Séries numériques - Estimation du reste]].
 
-
 ## Connexions utiles
 - Voir [[Analyse – Suites et limites]] pour les techniques d'équivalents.
 - Voir [[Analyse – Équations différentielles linéaires]] pour les séries génératrices.
