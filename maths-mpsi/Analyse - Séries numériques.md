@@ -32,10 +32,11 @@ tags: [MPSI, Analyse, Séries]
 - Série logarithmique : \(\sum \frac{x^n}{n} = -\ln(1-x)\) pour \(|x|<1\).
 
 ## Exercices types
-- Étudier la convergence et sommer \(\sum \frac{(-1)^n}{n(n+1)}\).
-- Comparer \(\sum \frac{\sqrt{n}}{n^2+1}\) à \(\sum \frac{1}{n^{3/2}}\).
-- Utiliser un DL pour décider de la convergence de \(\sum \left(\sqrt{n+1}-\sqrt{n}\right)\).
-- Déterminer un équivalent du reste \(R_n = \sum_{k=n+1}^{+\infty} u_k\).
+- Étudier la convergence et sommer \(\sum \frac{(-1)^n}{n(n+1)}\) → voir [[Exercice - Séries numériques - Série alternée télescopique]].
+- Comparer \(\sum \frac{\sqrt{n}}{n^2+1}\) à \(\sum \frac{1}{n^{3/2}}\) → voir [[Exercice - Séries numériques - Comparaison asymptotique]].
+- Utiliser un DL pour décider de la convergence de \(\sum \left(\sqrt{n+1}-\sqrt{n}\right)\) → voir [[Exercice - Séries numériques - DL et convergence]].
+- Déterminer un équivalent du reste \(R_n = \sum_{k=n+1}^{+\infty} u_k\) → voir [[Exercice - Séries numériques - Estimation du reste]].
+
 
 ## Connexions utiles
 - Voir [[Analyse – Suites et limites]] pour les techniques d'équivalents.
