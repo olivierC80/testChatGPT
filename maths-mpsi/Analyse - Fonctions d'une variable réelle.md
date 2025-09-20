@@ -31,10 +31,12 @@ tags: [MPSI, Analyse, Fonctions]
 - Étude des équations transcendantes \(\ln x = x-2\), \(\cos x = x\).
 
 ## Exercices types
+
 - Étudier les variations de \(f(x) = (x+1)\mathrm{e}^{-x}\) et résoudre \(f(x)=\tfrac{1}{2}\) → voir [[Exercice - Fonctions d'une variable réelle - Variations et équation]].
 - Calculer la limite \(\lim_{x\to0} \frac{\ln(1+x)-x+\tfrac{x^2}{2}}{x^3}\) à l'aide d'un DL → voir [[Exercice - Fonctions d'une variable réelle - DL et équivalent]].
 - Étudier la continuité et la dérivabilité en 0 de \(h(x)=x^2\sin(1/x)\) pour \(x\neq 0\) → voir [[Exercice - Fonctions d'une variable réelle - Dérivabilité par morceaux]].
 - Exploiter la concavité de \(\ln x\) sur \((0,+\infty)\) pour établir \(\ln x \leqslant x-1\) → voir [[Exercice - Fonctions d'une variable réelle - Convexité et inégalité]].
+
 
 ## Connexions utiles
 - Voir [[Analyse – Suites et limites]] pour la comparaison par suites extraites.
